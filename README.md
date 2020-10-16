@@ -1,4 +1,4 @@
-# Tableau work sample
+# Tableau work samples
 
 Task-1: 
 To identify how many patients detected with heart disease.
